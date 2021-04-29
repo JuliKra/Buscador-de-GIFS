@@ -1,1 +1,1 @@
-# Buscador-de-GIFS
+Consulta a API de Gif para buscarlos

@@ -1,1 +1,1 @@
-Consulta a API de Gif para buscarlos
+Buscador de GIFs mediante API (Materia PWA)
